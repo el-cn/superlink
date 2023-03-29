@@ -17,7 +17,6 @@ module.exports = {
       { text: '磁吸', link: '/cx' },
       { text: '文档', link: '/guide/' },
       { text: '软件下载', link: '/download' },
-      { text: 'GitHub', link: 'https://github.com' },
     ],
     sidebar: [
        {
@@ -45,7 +44,11 @@ module.exports = {
           '/guide/cp.md'
         ]
       }
-    ]
+    ],
+    repo: 'lvzhuo1029/vuepress-starter',
+    docsDir: 'docs',
+    editLinks: true,
+    editLinkText: '在 GitHub 上编辑此页'
   }
 }
 
