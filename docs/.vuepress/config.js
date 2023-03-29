@@ -11,7 +11,7 @@ module.exports = {
   }],
   themeConfig: {
     smoothScroll: true,
-    lastUpdated: 'Last Updated', //最后更新时间
+    lastUpdated: '上次更新', //最后更新时间
     nav: [
       { text: '首页', link: '/' },
       { text: '磁吸', link: '/cx' },
