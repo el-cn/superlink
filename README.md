@@ -10,7 +10,7 @@ VuePress原生框架
 
 #### 安装教程
 
-1.  xxxx
+1.  git clone
 2.  xxxx
 3.  xxxx
 
