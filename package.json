@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "vue-template-compiler": "^2.7.14"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.9",
+    "vuepress-plugin-code-copy": "^1.0.6",
+    "vuepress-plugin-one-click-copy": "^1.0.6"
+  }
+}
