@@ -1,13 +1,11 @@
-<<<<<<< HEAD
 # vuepress-starter
 
 #### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+磁吸动力是一个基于VuePress开发的开源文档社区平台,它包含Mac和Linux操作指令文档,同时也提供免费的各类操作平台的软件下载。
+在如今AI喷井式爆发,我们未来会在vue强力驱动下结合ChatGpt人工智能模型,给用户带来更好的升级和体验。
 
 #### 软件架构
-软件架构说明
+VuePress原生框架
 
 
 #### 安装教程
