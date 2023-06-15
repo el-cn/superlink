@@ -12,7 +12,7 @@ VuePress原生框架
 
 #### 安装教程
 
-1.  git clone https://github.com/lvzhuo1029/vuepress-starter.git
+1.  git clone https://github.com/lvzhuo1029/superlink.git
 
 #### 使用说明
 
@@ -20,7 +20,4 @@ VuePress原生框架
 2.  vuepress dev .
 3.  vuepress build .
 
-=======
-# superlink
-SuperLinkOS
->>>>>>> 3b4aa2fbb3ae9417ada4e83850471cc2cd0e3808
+
