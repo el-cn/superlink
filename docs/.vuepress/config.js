@@ -15,36 +15,20 @@ module.exports = {
     nav: [
       { text: '首页', link: '/' },
       { text: '磁吸', link: '/cx' },
-      { text: '文档', link: '/guide/' },
+      { text: '文档', link: '/superlink/' },
       { text: '软件下载', link: '/download' },
     ],
-    sidebar: [
-       {
-        title: '指南',
-        collapsable: false,
-        children: [
-          '/guide/introduction.md'
-        ]
-      },
-      {
-        title: '操作系统',
-        collapsable: true,
-        children: [
-          '/guide/mac.md',
-          '/guide/centos.md',
-          '/guide/ubuntu.md'
-        ]
-      },
-      {
-        title: 'linux命令',
-        collapsable: true,
-        children: [
-          '/guide/mv.md',
-          '/guide/ls.md',
-          '/guide/cp.md'
-        ]
-      }
-    ],
+   sidebar: {
+      '/superlink/': [
+    {
+      title: 'SuperLink',
+      collapsable: true,
+      children: [
+        'superlink',
+      ]
+    }
+  ]
+},
     repo: 'lvzhuo1029/vuepress-starter',
     docsDir: 'docs',
     editLinks: true,

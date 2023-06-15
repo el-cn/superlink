@@ -4,7 +4,7 @@ heroImage: /hero.png
 heroText: 磁吸动力
 tagline: 磁吸未来
 actionText: 开始使用 →
-actionLink: /guide/
+actionLink: /superlink/
 features:
 - title: 简洁至上
   details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
