@@ -22,9 +22,10 @@ module.exports = {
       '/superlink/': [
     {
       title: 'SuperLink',
-      collapsable: true,
+      collapsable:true,
       children: [
         'superlink',
+        'github'
       ]
     }
   ]
