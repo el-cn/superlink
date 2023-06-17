@@ -24,8 +24,9 @@ module.exports = {
       title: 'SuperLink',
       collapsable:true,
       children: [
+        'systemAdmin',
         'superlink',
-        'github'
+        'github',
       ]
     }
   ]
