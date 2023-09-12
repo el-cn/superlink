@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # vuepress-starter
 
 #### 介绍
